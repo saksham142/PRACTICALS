@@ -40,4 +40,8 @@
 
 # PROGRAMM 6 
 
+![image alt](https://github.com/saksham142/PRACTICALS/blob/b46e7c7ea3dc9fb2bc044157b67e99903e7b931d/Screenshot%202024-12-26%20213740.png)
+
+- OUTPUT
+
 ![image alt](
