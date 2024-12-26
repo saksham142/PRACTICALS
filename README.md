@@ -8,4 +8,8 @@
 
 # PROGRAMM 2
 
+![image alt](https://github.com/saksham142/PRACTICALS/blob/6d4a97a38f6ad156b0019e9f6dcb46ded2aec071/Screenshot%202024-12-26%20210016.png)
+
+- OUTPUT
+
 ![image alt](
