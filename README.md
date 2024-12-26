@@ -36,4 +36,4 @@
 
 - OUTPUT
 
-![image alt](
+![image alt](https://github.com/saksham142/PRACTICALS/blob/028aea5159c031e214f99718446b403089ac73b4/Screenshot%202024-12-26%20212457.png)
