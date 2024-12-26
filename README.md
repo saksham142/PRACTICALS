@@ -32,4 +32,8 @@
 
 # PROGRAMM 5
 
-1[image alt](
+1[image alt](https://github.com/saksham142/PRACTICALS/blob/20239bd9d04c76101d70677da96c2af1e940f7ca/Screenshot%202024-12-26%20212335.png)
+
+- OUTPUT
+
+![image alt](
