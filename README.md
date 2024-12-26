@@ -28,4 +28,8 @@
 
 - OUTPUT
 
-![image alt](
+![image alt](https://github.com/saksham142/PRACTICALS/blob/e55cbc96f2c7873419164a63fec8ab9b1b04b53f/Screenshot%202024-12-26%20211826.png)
+
+# PROGRAMM 5
+
+1[image alt](
