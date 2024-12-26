@@ -44,4 +44,8 @@
 
 - OUTPUT
 
+![image alt](https://github.com/saksham142/PRACTICALS/blob/86ca7bdecfa3e709ea1877f3c258ae9492b64901/Screenshot%202024-12-26%20213826.png)
+
+# PROGRAMM 7
+
 ![image alt](
