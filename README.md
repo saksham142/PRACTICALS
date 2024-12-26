@@ -32,8 +32,12 @@
 
 # PROGRAMM 5
 
-1[image alt](https://github.com/saksham142/PRACTICALS/blob/20239bd9d04c76101d70677da96c2af1e940f7ca/Screenshot%202024-12-26%20212335.png)
+![image alt](https://github.com/saksham142/PRACTICALS/blob/20239bd9d04c76101d70677da96c2af1e940f7ca/Screenshot%202024-12-26%20212335.png)
 
 - OUTPUT
 
 ![image alt](https://github.com/saksham142/PRACTICALS/blob/028aea5159c031e214f99718446b403089ac73b4/Screenshot%202024-12-26%20212457.png)
+
+# PROGRAMM 6 
+
+![image alt](
