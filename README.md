@@ -24,7 +24,7 @@
 
 # PROGRAMM 4
 
-1[image alt](https://github.com/saksham142/PRACTICALS/blob/5aad3de57b56e3dccdbb3c78f0b61a8e6446be68/Screenshot%202024-12-26%20211810.png)
+![image alt](https://github.com/saksham142/PRACTICALS/blob/5aad3de57b56e3dccdbb3c78f0b61a8e6446be68/Screenshot%202024-12-26%20211810.png)
 
 - OUTPUT
 
