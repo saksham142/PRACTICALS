@@ -16,4 +16,8 @@
 
 # PROGRAMM 3
 
-![image alt](
+![image alt](https://github.com/saksham142/PRACTICALS/blob/ab8e27e53f2c1de4b77a77074ae0a46248e53761/Screenshot%202024-12-26%20210810.png)
+
+- OUTPUT
+
+1[image alt](
